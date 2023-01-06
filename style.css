@@ -132,7 +132,6 @@ h2{
     color: #1F2937;
     width: 870px;
     margin: 0px auto 0px auto;
-    ;
 }
 
 .section-three .sig {
@@ -141,4 +140,33 @@ h2{
     text-align: right;
     margin-right : 150px;
     font-style: normal;
+}
+
+.section-four {
+    background-color: white;
+    padding: 60px 180px 90px 180px;
+}
+
+.section-four .container {
+    background-color: #3882F6;
+    display: flex;
+    padding : 60px 48px 60px 48px;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-four h3{
+    color: white;
+    margin : 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+.section-four button {
+    padding: 6px 24px;
+    border: white solid 2px;
+    width: 120px;
+    height: 36px
+
 }
