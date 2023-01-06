@@ -120,3 +120,25 @@ h2{
     width: 180px;
 
 }
+
+.section-three {
+    background-color: #E5E7EB;
+    padding: 90px 180px 60px 180px;
+}
+
+.section-three p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 870px;
+    margin: 0px auto 0px auto;
+    ;
+}
+
+.section-three .sig {
+    font-size: 24px;
+    font-weight: bolder;
+    text-align: right;
+    margin-right : 150px;
+    font-style: normal;
+}
