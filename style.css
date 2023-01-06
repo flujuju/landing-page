@@ -170,3 +170,10 @@ h2{
     height: 36px
 
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 48px 180px 48px 180px;
+    color: white;
+    text-align: center;
+}
